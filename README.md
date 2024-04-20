@@ -1,6 +1,6 @@
 As a Business Administration graduate from Universidade FUMEC, with a postgraduate degree in Data Science from UNI-BH in Belo Horizonte, Brazil, my passion lies in harnessing data-driven insights to inform strategic decisions.
 
-My professional journey has equipped me with valuable skills and experience in various areas, including Robotic Process Automation and programming. I am proficient in using a wide range of Python libraries such as pandas, pyautogui, pygetwindow, selenium chromedriver, datetime, os, numpy, sqlite3, bs4, regex, boto3, logging, smtplib, imaptools, pymssql, pyodbc, pymysql, pdfplumber, and others. I have also gained a foundational understanding of JavaScript, HTML5, and CSS3, allowing me to contribute to building front-end applications.
+My professional journey has equipped me with valuable skills and experience in various areas, including Robotic Process Automation and programming. I am proficient in using a wide range of Python libraries such as pandas, pyautogui, pygetwindow, selenium chromedriver, datetime, os, numpy, sqlite3, bs4, regex, boto3, logging, smtplib, imaptools, pyodbc, pymysql, pdfplumber, and others. I have also gained a foundational understanding of JavaScript, HTML5, and CSS3, allowing me to contribute to building front-end applications.
 
 I am enthusiastic about leveraging data science to drive innovative solutions and make informed decisions. I am always eager to expand my knowledge and skills in this dynamic field and collaborate on exciting projects. Let's connect and explore opportunities together!
 
