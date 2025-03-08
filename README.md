@@ -1,12 +1,15 @@
 I have a degree in Business Administration from Universidade FUMEC and a postgraduate degree in Data
 Science from UNI-BH, in Belo Horizonte - MG, Brazil.
+
 I work as a developer specializing in process automation and integrations, with extensive experience in
 Python, creating efficient solutions to optimize workflows and improve productivity. I have expertise in
 developing APIs, web applications, and automated systems, using technologies such as FastAPI, Flask,
 Selenium, and Apache Airflow, as well as integrating with databases like MongoDB and SQL Server.
+
 I have basic knowledge of JavaScript, HTML, and CSS, allowing me to contribute to front-end development
 and create intuitive interfaces. My focus is on leveraging data science and automation to drive innovation and
 strategic decision-making.
+
 I am always looking for new challenges and opportunities to enhance my skills and contribute to impactful
 projects.
 
