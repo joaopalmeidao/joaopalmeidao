@@ -1,21 +1,46 @@
-I have a degree in Business Administration from Universidade FUMEC and a postgraduate degree in Data
-Science from UNI-BH, in Belo Horizonte - MG, Brazil.
+# Hi, I'm João Pedro 👋
 
-I work as a developer specializing in process automation and integrations, with extensive experience in
-Python, creating efficient solutions to optimize workflows and improve productivity. I have expertise in
-developing APIs, web applications, and automated systems, using technologies such as FastAPI, Flask,
-Selenium, and Apache Airflow, as well as integrating with databases like MongoDB and SQL Server.
+Python developer from Belo Horizonte, Brazil, building **automation that talks to systems that were never
+meant to be automated**: court portals, government gazettes, legacy web apps.
 
-I have basic knowledge of JavaScript, HTML, and CSS, allowing me to contribute to front-end development
-and create intuitive interfaces. My focus is on leveraging data science and automation to drive innovation and
-strategic decision-making.
+My day job is a legal-automation SaaS for Brazilian law firms. It files petitions and
+monitors cases across Brazilian court systems (PJe, eProc, DJEN, DataJud) on a pool of headless-browser workers,
+with the lawyer's digital certificate (ICP-Brasil A1) signing inside the pipeline.
 
-I am always looking for new challenges and opportunities to enhance my skills and contribute to impactful
-projects.
+### What I work on
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Joao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Joao-MSSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-  <img align="center" alt="Joao-Pandas" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg">
-  <img align="center" alt="Joao-Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
-</div>
+- **Web scraping and anti-bot**: Selenium and Scrapy crawlers for court and public-data portals, Cloudflare/WAF
+  challenges, captchas, session reuse, 2FA flows.
+- **Distributed workers**: Celery + RabbitMQ + Redis, horizontal scaling of browser workers, per-task
+  watchdogs, zero-loss deploy draining.
+- **Backend and APIs**: FastAPI, SQLAlchemy/Alembic, PostgreSQL, multi-tenant SaaS, RBAC and 2FA.
+- **Digital signatures**: PAdES and ICP-Brasil certificates, a Python replacement for the PJeOffice signer.
+- **Data and AI**: pandas, LLM-assisted document handling. I hold a postgraduate degree in Data Science
+  (UNI-BH) and a degree in Business Administration (FUMEC).
+
+### Open source
+
+- **[celery-liveops](https://github.com/joaopalmeidao/celery-liveops)**
+  ([PyPI](https://pypi.org/project/celery-liveops/)): see inside a long-running Celery task while it runs.
+  Live logs, worker presence, per-task deadlines, orphan locks. It was extracted from production.
+- **[Querido Diário](https://github.com/okfn-brasil/querido-diario)** (Open Knowledge Brasil): a fix so the gazette
+  downloader detects Cloudflare challenges after response decompression
+  ([#1551](https://github.com/okfn-brasil/querido-diario/pull/1551)).
+
+### Stack
+
+<p>
+  <img alt="Python" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img alt="FastAPI" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">
+  <img alt="Selenium" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
+  <img alt="PostgreSQL" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img alt="Redis" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg">
+  <img alt="RabbitMQ" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg">
+  <img alt="Docker" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img alt="React" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img alt="pandas" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+  <img alt="Linux" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+</p>
+
+Always happy to talk about scraping hard-to-reach public data, Brazilian court systems, or keeping Celery
+workers honest.
