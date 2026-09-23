@@ -11,7 +11,7 @@ automated something like it, from headless-browser fleets and captchas to certif
 
 ### What I work on
 
-- **Web scraping and anti-bot**: Selenium and Scrapy crawlers for court and public-data portals, Cloudflare/WAF
+- **Web scraping and anti-bot**: Selenium and Scrapy crawlers, Cloudflare/WAF
   challenges, captchas, session reuse, 2FA flows.
 - **Distributed workers**: Celery + RabbitMQ + Redis, horizontal scaling of browser workers, per-task
   watchdogs, zero-loss deploy draining.
