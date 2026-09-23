@@ -3,9 +3,11 @@
 Python developer from Belo Horizonte, Brazil, building **automation that talks to systems that were never
 meant to be automated**: court portals, government gazettes, legacy web apps.
 
-My day job is a legal-automation SaaS for Brazilian law firms. It files petitions and
-monitors cases across Brazilian court systems (PJe, eProc, DJEN, DataJud) on a pool of headless-browser workers,
-with the lawyer's digital certificate (ICP-Brasil A1) signing inside the pipeline.
+I work at the **Court of Accounts of the State of Minas Gerais (TCE-MG)** and, on the side, contribute to
+open source projects around public data, scraping and distributed workers.
+
+Automation is my thing: if a process runs through a browser, a portal or a spreadsheet, I've probably
+automated something like it, from headless-browser fleets and captchas to certificate signing and task queues.
 
 ### What I work on
 
