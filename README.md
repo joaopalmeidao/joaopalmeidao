@@ -16,7 +16,7 @@ automated something like it, from headless-browser fleets and captchas to certif
 - **Distributed workers**: Celery + RabbitMQ + Redis, horizontal scaling of browser workers, per-task
   watchdogs, zero-loss deploy draining.
 - **Backend and APIs**: FastAPI, SQLAlchemy/Alembic, PostgreSQL, multi-tenant SaaS, RBAC and 2FA.
-- **Digital signatures**: PAdES and ICP-Brasil certificates, a Python replacement for the PJeOffice signer.
+- **Digital signatures**: PAdES and ICP-Brasil certificates.
 - **Data and AI**: pandas, LLM-assisted document handling. I hold a postgraduate degree in Data Science
   (UNI-BH) and a degree in Business Administration (FUMEC).
 
