@@ -1,7 +1,7 @@
 # Hi, I'm João Pedro 👋
 
 Python developer from Belo Horizonte, Brazil, building **automation that talks to systems that were never
-meant to be automated**: court portals, government gazettes, legacy web apps.
+meant to be automated**.
 
 I work at the **Court of Accounts of the State of Minas Gerais (TCE-MG)** and, on the side, contribute to
 open source projects around public data, scraping and distributed workers.
