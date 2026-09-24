@@ -20,15 +20,6 @@ automated something like it, from headless-browser fleets and captchas to certif
 - **Data and AI**: pandas, LLM-assisted document handling. I hold a postgraduate degree in Data Science
   (UNI-BH) and a degree in Business Administration (FUMEC).
 
-### Open source
-
-- **[celery-liveops](https://github.com/joaopalmeidao/celery-liveops)**
-  ([PyPI](https://pypi.org/project/celery-liveops/)): see inside a long-running Celery task while it runs.
-  Live logs, worker presence, per-task deadlines, orphan locks. It was extracted from production.
-- **[Querido Diário](https://github.com/okfn-brasil/querido-diario)** (Open Knowledge Brasil): a fix so the gazette
-  downloader detects Cloudflare challenges after response decompression
-  ([#1551](https://github.com/okfn-brasil/querido-diario/pull/1551)).
-
 ### Stack
 
 <p>
